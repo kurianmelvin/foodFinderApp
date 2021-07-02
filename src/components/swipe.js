@@ -5,7 +5,7 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function Swipe() {
   return (
     <View style={styles.container}>
-      <Text>swipe component</Text>
+      <Text>swipe component test</Text>
       <StatusBar style="auto" />
     </View>
   );
